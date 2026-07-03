@@ -19,13 +19,13 @@ The project aims to convert casual riders into annual members by analyzing usage
 
 ## Data structure
 
-![Data]()
+![Data](bike-share-sample.png)
 
 ## Visualization
-![Line chart]()
+![Line chart](line-chart.png)
 
 ## Project files
-[raw data 2019Q1]()
-[raw data 2020Q1]()
-[project report]()
+[trips_2019Q1](https://1drv.ms/f/c/5c548d342686c0f6/IgBTG0AU8eRwRZv_ahiCF5eAAYIn_JrrPAjLNUs6HNLQqA8?e=3q4J5G)
+[trips_2020Q1](https://1drv.ms/f/c/5c548d342686c0f6/IgBTG0AU8eRwRZv_ahiCF5eAAYIn_JrrPAjLNUs6HNLQqA8)
+[project report](https://1drv.ms/w/c/5c548d342686c0f6/IQCdJG_QxpnjTr392ydAzR5fAUn_SK2Wrx7p5JOY11DWBW8?e=MVZgG9)
    
